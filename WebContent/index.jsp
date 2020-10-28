@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>SISTEMA DE COLEGIO</h1>
+<h2>Michael Castañeda Figueroa</h2>
 
 </body>
 </html>
